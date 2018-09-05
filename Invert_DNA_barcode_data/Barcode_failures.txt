@@ -1,0 +1,1186 @@
+Accession 	Gene	Parent Location 	Collected Location 	Method 	Order	LCA order (if available)	Combined order
+NZAC03006217	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Empty vial	Diptera	Diptera
+NZAC03006285	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03006303	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03006316	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03006328	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03006329	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03006331	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03006352	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03006355	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03006359	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03006366	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03006374	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03006404	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03009005	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009007	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009008	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009010	Both	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Arachnida	0	(Arachnida)
+NZAC03009011	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009012	Both	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009014	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009017	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009027	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03009039	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009042	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009047	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03009052	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03009054	Both	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Diplopoda	0	(Diplopoda)
+NZAC03009056	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009057	Both	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009060	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009077	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009081	Both	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009082	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009084	Both	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009090	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009093	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009094	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009095	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03009101	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009104	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009106	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009109	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009110	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009111	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009112	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009114	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009116	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009118	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03009123	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03009124	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009129	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Arthropoda	(Endopterygota)	(Endopterygota)
+NZAC03009134	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009135	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03009136	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009138	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009140	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009142	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009146	Both	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009153	28S	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009156	Both	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03009158	Both	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03009161	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009165	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Orthoptera	0	Orthoptera
+NZAC03009166	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009167	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03009170	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03009172	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009173	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009175	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Isopoda	Isopoda	Isopoda
+NZAC03009188	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009194	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009196	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009197	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009201	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009202	28S	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009215	Both	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009225	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03009226	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009227	28S	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03009229	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009234	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Insecta	Diptera	Diptera
+NZAC03009235	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009237	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009238	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009239	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009241	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009245	Both	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009246	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009247	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009251	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009252	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009254	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009256	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009257	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009258	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009260	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Diplopoda	0	(Diplopoda)
+NZAC03009262	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009263	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009266	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009270	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03009277	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009279	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03009280	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03009286	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03009291	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Arthropoda	0	(Arthropoda)
+NZAC03009296	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	0	(Endopterygota)	(Endopterygota)
+NZAC03009300	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009302	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Arthropoda	Diptera	Diptera
+NZAC03009303	Both	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03009305	Both	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009307	Both	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009309	28S	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03009316	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009320	Both	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009337	Both	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009338	Both	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03009340	28S	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009344	Both	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009351	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03009352	28S	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Insecta	Diptera	Diptera
+NZAC03009354	Both	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010136	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Diplopoda	(Diplopoda)	(Diplopoda)
+NZAC03010147	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03010157	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03010165	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03010166	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Arthropoda	0	(Arthropoda)
+NZAC03010186	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Araneae	0	Araneae
+NZAC03010189	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010191	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03010197	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03010201	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03010202	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03010209	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03010258	Both	Plot 1 	Subplot L 	Leaf Litter Collection 	Lepidoptera	0	Lepidoptera
+NZAC03010272	Both	Plot 1 	Subplot L 	Leaf Litter Collection 	Hymenoptera	0	Hymenoptera
+NZAC03010280	Both	Plot 1 	Subplot L 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03010291	Both	Plot 1 	Subplot L 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03010293	Both	Plot 1 	Subplot L 	Leaf Litter Collection 	Gastropoda	0	(Gastropoda)
+NZAC03010298	28S	Plot 1 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010306	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03010308	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03010310	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03010311	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Insecta	Diptera	Diptera
+NZAC03010312	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03010320	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010322	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010323	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010325	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03010336	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03010339	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	0	(Gastropoda)
+NZAC03010352	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03010358	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	0	(Gastropoda)
+NZAC03010365	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010370	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03010380	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03010382	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03010383	Both	Plot 7 	Subplot M 	Leaf Litter Collection 	Araneae	0	Araneae
+NZAC03010385	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010388	28S	Plot 7 	Subplot M 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010393	Both	Plot 1 	Subplot L 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03010404	Both	Plot 1 	Subplot L 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03010417	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010418	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010435	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010436	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010442	28S	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010443	28S	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010455	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	(Endopterygota)	(Endopterygota)
+NZAC03010462	Both	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03010467	28S	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010475	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010485	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010486	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Insecta	Diptera	Diptera
+NZAC03010487	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Arthropoda	Amphipoda	Amphipoda
+NZAC03010489	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010490	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	Amphipoda	Amphipoda
+NZAC03010491	Both	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010496	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010498	Both	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010503	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010505	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010510	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010517	Both	Plot 4 	Subplot H 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03010522	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010524	28S	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010527	Both	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03010531	28S	Plot 4 	Subplot H 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010535	Both	Plot 4 	Subplot H 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03010537	Both	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03010540	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010549	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010554	28S	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010560	28S	Plot 4 	Subplot H 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010566	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Arthropoda	Amphipoda	Amphipoda
+NZAC03010568	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010570	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010578	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010597	Both	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010605	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	Amphipoda	Amphipoda
+NZAC03010609	Both	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03010627	Both	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03010630	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010631	Both	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010638	28S	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010641	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010650	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010652	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Arthropoda	Amphipoda	Amphipoda
+NZAC03010661	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Arthropoda	Amphipoda	Amphipoda
+NZAC03010663	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010664	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010665	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010666	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Opiliones	0	Opiliones
+NZAC03010667	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010668	28S	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Empty vial	(Endopterygota)	(Endopterygota)
+NZAC03010670	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010672	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	(Endopterygota)	(Endopterygota)
+NZAC03010673	Both	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010676	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010677	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03010679	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010683	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	Phasmatodea	Phasmatodea
+NZAC03010686	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010688	28S	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010689	Both	CM30c30 	Subplot I 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03010691	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010692	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010694	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010698	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03010699	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010701	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Hemiptera	0	Hemiptera
+NZAC03010703	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010705	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	Araneae	Araneae
+NZAC03010707	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010708	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010709	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010710	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010711	28S	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010713	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010715	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03010717	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010719	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010722	28S	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010723	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010726	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03010728	28S	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010729	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03010730	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Pseudoscorpiones	0	Pseudoscorpiones
+NZAC03010731	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03010732	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Hemiptera	Hemiptera	Hemiptera
+NZAC03010733	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010735	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03010738	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010739	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010740	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Insecta	Lepidoptera	Lepidoptera
+NZAC03010743	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	(Onychophora)	(Onychophora)
+NZAC03010745	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010749	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010750	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010751	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03010752	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03010753	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03010754	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Arachnida	0	(Arachnida)
+NZAC03010755	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010756	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010757	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010758	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010759	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010761	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010763	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010764	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03010766	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010767	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010769	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Orthoptera	0	Orthoptera
+NZAC03010770	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010771	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010772	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010773	Both	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010775	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010796	28S	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Orthoptera	Orthoptera	Orthoptera
+NZAC03010806	28S	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Hemiptera	0	Hemiptera
+NZAC03010811	28S	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010812	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Hemiptera	0	Hemiptera
+NZAC03010813	28S	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Geophilomorpha	0	Geophilomorpha
+NZAC03010816	28S	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010818	28S	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03010819	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010822	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03010824	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03010825	28S	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03010827	28S	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010828	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03010829	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010832	28S	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Hemiptera	Hemiptera	Hemiptera
+NZAC03010841	Both	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03010848	Both	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010849	Both	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010851	Both	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010853	Both	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010870	28S	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03010871	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010875	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03010877	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03010889	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010890	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03010891	28S	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03010892	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Lithobiomorpha	0	Lithobiomorpha
+NZAC03010893	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03010895	Both	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03010896	28S	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03010899	28S	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03010902	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03010905	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010906	28S	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03010907	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010909	28S	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010910	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010914	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010915	Both	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010918	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03010953	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03010955	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03010961	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Arachnida	0	(Arachnida)
+NZAC03010974	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Empty vial	Amphipoda	Amphipoda
+NZAC03011017	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011040	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011049	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03011084	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Lepidoptera	0	Lepidoptera
+NZAC03011088	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011095	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03011101	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011103	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011109	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03011110	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011153	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Araneae	Araneae	Araneae
+NZAC03011168	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011175	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011190	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Arachnida	0	(Arachnida)
+NZAC03011191	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Hymenoptera	0	Hymenoptera
+NZAC03011192	Both	Plot 6 	Subplot N 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03011193	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03011222	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03011242	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011247	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011254	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03011255	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03011257	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Pseudoscorpiones	0	Pseudoscorpiones
+NZAC03011263	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Insecta	0	(Insecta)
+NZAC03011264	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011273	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03011278	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Gastropoda	0	(Gastropoda)
+NZAC03011282	Both	Plot 6 	Subplot N 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03011306	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03011314	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011318	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03011327	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03011330	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011345	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Diplopoda	(Diplopoda)	(Diplopoda)
+NZAC03011349	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03011373	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03011381	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03011394	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011395	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Empty vial	Pseudoscorpiones	Pseudoscorpiones
+NZAC03011397	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03011398	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03011400	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Arthropoda	0	(Arthropoda)
+NZAC03011401	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03011402	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03011420	Both	Plot 6 	Subplot N 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03011422	28S	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Hemiptera	Hemiptera	Hemiptera
+NZAC03011425	28S	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03011427	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011428	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011429	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011437	Both	Plot 6 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011443	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03011445	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011447	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011448	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011450	Both	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03011453	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011460	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011461	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011462	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Pseudoscorpiones	0	Pseudoscorpiones
+NZAC03011464	28S	Plot 6 	Subplot B 	Invertebrate Pitfall Trap 	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03011471	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011472	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011473	Both	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03011474	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011476	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03011480	28S	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03011483	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011488	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011489	28S	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03011499	Both	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03011500	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	0	0	0
+NZAC03011501	Both	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011502	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	0	Thysanoptera	Thysanoptera
+NZAC03011504	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011505	28S	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03011507	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011510	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03011511	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Glomerida	0	Glomerida
+NZAC03011512	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011513	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	Spirostreptida	Spirostreptida
+NZAC03011514	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	Diptera	Diptera
+NZAC03011517	28S	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011518	28S	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011520	Both	Plot 6 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011522	28S	Plot 6 	Subplot B 	Invertebrate Pitfall Trap 	Insecta	Lepidoptera	Lepidoptera
+NZAC03011527	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03011528	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011530	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03011534	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011540	Both	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011541	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03011543	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	(Endopterygota)	(Endopterygota)
+NZAC03011544	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011545	Both	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011546	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011553	28S	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011555	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03011556	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	0	(Endopterygota)	(Endopterygota)
+NZAC03011559	Both	Plot 6 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011564	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03011565	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011567	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	Diptera	Diptera
+NZAC03011572	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011585	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011586	Both	Plot 6 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011587	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011588	Both	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03011590	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03011594	Both	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011595	Both	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011604	28S	Plot 6 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011606	Both	Plot 6 	Subplot B 	Invertebrate Pitfall Trap 	Opiliones	0	Opiliones
+NZAC03011612	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011613	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011614	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011615	Both	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011617	Both	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03011619	Both	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011628	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011629	28S	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011636	Both	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Hemiptera	0	Hemiptera
+NZAC03011643	28S	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011650	28S	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Insecta	Lepidoptera	Lepidoptera
+NZAC03011653	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Glomerida	0	Glomerida
+NZAC03011654	Both	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011667	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011668	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011671	Both	Plot 4 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011706	28S	Plot 6 	Subplot I 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03011725	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011757	28S	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011758	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03011759	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	0	0	0
+NZAC03011761	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Hemiptera	0	Hemiptera
+NZAC03011763	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03011764	28S	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011765	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03011793	28S	Plot 6 	Subplot I 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03011797	28S	Plot 6 	Subplot I 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011815	28S	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011817	28S	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03011818	28S	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011826	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03011827	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03011828	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03011830	28S	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Empty vial	Amphipoda	Amphipoda
+NZAC03011835	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03011839	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Hemiptera	0	Hemiptera
+NZAC03011840	28S	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03011841	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011843	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011844	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03011847	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Lepidoptera	0	Lepidoptera
+NZAC03011851	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011852	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011857	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011864	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03011865	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03011866	28S	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011867	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011899	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011900	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011901	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03011904	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011906	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011907	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Diplopoda	0	(Diplopoda)
+NZAC03011910	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011915	Both	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011916	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011917	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011920	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03011921	Both	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011923	28S	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03011927	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03011946	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	(Endopterygota)	(Endopterygota)
+NZAC03011950	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03011951	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011960	28S	Plot 6 	Subplot I 	Leaf Litter Collection 	0	(Arthropoda)	(Arthropoda)
+NZAC03012077	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Geophilomorpha	Geophilomorpha	Geophilomorpha
+NZAC03012095	28S	Plot 6 	Subplot I 	Leaf Litter Collection 	Hemiptera	(Insecta)	(Insecta)
+NZAC03012121	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012170	Both	Plot 6 	Subplot I 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03012183	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012193	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012196	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012199	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Geophilomorpha	0	Geophilomorpha
+NZAC03012203	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012205	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03012222	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012232	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012237	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Collembola	Collembola	Collembola
+NZAC03012255	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Collembola	(Hexapoda)	(Hexapoda)
+NZAC03012267	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03012276	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012289	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03012295	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012297	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012303	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03012309	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012311	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Geophilomorpha	0	Geophilomorpha
+NZAC03012314	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Geophilomorpha	0	Geophilomorpha
+NZAC03012315	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03012316	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03012328	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03012333	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012345	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012348	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03012368	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03012369	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012383	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03012384	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012385	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012388	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012389	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Geophilomorpha	0	Geophilomorpha
+NZAC03012393	28S	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012411	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012412	Both	Plot 4 	Subplot A 	Leaf Litter Collection 	Geophilomorpha	0	Geophilomorpha
+NZAC03012431	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012447	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012481	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012488	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Lepidoptera	Lepidoptera
+NZAC03012494	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012497	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012520	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	(Endopterygota)	(Endopterygota)
+NZAC03012526	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012534	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Hemiptera	Hemiptera
+NZAC03012546	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012559	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Lepidoptera	Lepidoptera
+NZAC03012565	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012566	Both	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012578	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012595	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03012601	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Hemiptera	Hemiptera
+NZAC03012612	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Lepidoptera	Lepidoptera
+NZAC03012613	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	(Endopterygota)	(Endopterygota)
+NZAC03012634	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012648	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012650	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012651	Both	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012663	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03012692	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012697	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03012704	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Lepidoptera	Lepidoptera
+NZAC03012707	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012711	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Arthropoda	Amphipoda	Amphipoda
+NZAC03012722	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012724	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012737	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03012738	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03012743	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	(Diplopoda)	(Diplopoda)
+NZAC03012749	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012764	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012767	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012785	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012786	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03012788	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012806	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Lepidoptera	Lepidoptera
+NZAC03012810	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03012815	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Symphyla	0	Symphyla
+NZAC03012822	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012825	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03012828	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012839	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012855	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03012860	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03012861	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03012862	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03012863	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012866	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012867	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Araneae	Araneae	Araneae
+NZAC03012872	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03012873	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012876	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012883	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	(Endopterygota)	(Endopterygota)
+NZAC03012889	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012893	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012899	28S	Plot 5 	Subplot I 	Leaf Litter Collection 	0	(Protostomia)	(Protostomia)
+NZAC03012913	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012918	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	(Diplopoda)	(Diplopoda)
+NZAC03012921	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Empty vial	(Insecta)	(Insecta)
+NZAC03012923	Both	Plot 3 	Subplot N 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03012924	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012925	28S	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012937	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03012946	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Araneae	Araneae	Araneae
+NZAC03012949	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012958	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03012965	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012986	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012989	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012992	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013006	Both	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013007	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Geophilomorpha	0	Geophilomorpha
+NZAC03013009	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	(Myriapoda)	0	(Myriapoda)
+NZAC03013011	28S	Plot 2 	Subplot C 	Leaf Litter Collection 	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03013013	Both	Plot 6 	Subplot N 	Leaf Litter Collection 	Thysanoptera	0	Thysanoptera
+NZAC03013019	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013022	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013039	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03013042	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013043	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013045	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013144	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013193	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013196	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013205	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03013208	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013217	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013232	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013238	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03013255	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013259	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013260	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013262	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013266	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013276	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013279	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013281	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Empty vial	Haplotaxida	Haplotaxida
+NZAC03013286	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03013303	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013311	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03013314	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Psocoptera	0	Psocoptera
+NZAC03013317	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013322	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013325	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013326	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013329	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03013336	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013340	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03013352	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013354	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03013356	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013362	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013364	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013366	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013370	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013371	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03013380	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013382	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013386	Both	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03013388	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013405	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013407	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	0	Diptera	Diptera
+NZAC03013413	28S	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013420	28S	Plot 6 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013441	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03013443	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03013446	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	(Endopterygota)	(Endopterygota)
+NZAC03013447	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013452	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013454	28S	Plot 3 	Subplot H 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013455	Both	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03013462	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013463	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013465	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013468	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Arthropoda	Diptera	Diptera
+NZAC03013469	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03013473	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03013480	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	Thysanoptera	Thysanoptera
+NZAC03013493	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03013500	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013501	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03013503	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Hemiptera	0	Hemiptera
+NZAC03013504	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03013509	28S	Plot 3 	Subplot H 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013515	28S	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013516	Both	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Diplopoda	0	(Diplopoda)
+NZAC03013518	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03013521	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03013525	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013527	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013528	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03013530	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03013534	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Isopoda	Isopoda	Isopoda
+NZAC03013543	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013544	28S	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013554	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013555	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03013557	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03013560	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03013561	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Insecta	0	(Insecta)
+NZAC03013562	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013563	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	0	0	0
+NZAC03013564	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013581	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013583	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03013592	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013593	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03013595	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03013602	28S	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	Diptera	Diptera
+NZAC03013610	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013611	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03013618	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03013624	28S	Plot 3 	Subplot H 	Invertebrate Pitfall Trap 	0	Diptera	Diptera
+NZAC03013625	28S	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013630	Both	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03013631	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013632	28S	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03013635	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013638	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013639	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Arthropoda	Hemiptera	Hemiptera
+NZAC03013641	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03013647	28S	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03013650	28S	Plot 3 	Subplot H 	Invertebrate Pitfall Trap 	Empty vial	Diptera	Diptera
+NZAC03013658	28S	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013660	28S	Plot 3 	Subplot H 	Invertebrate Pitfall Trap 	Empty vial	Diptera	Diptera
+NZAC03013661	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013663	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013666	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03013670	Both	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03013673	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03013674	28S	Plot 3 	Subplot H 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03013679	28S	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03013682	Both	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Isopoda	0	Isopoda
+NZAC03013683	Both	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03013685	28S	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013729	Both	LB1 	Subplot E 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03013733	Both	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013751	Both	LB1 	Subplot E 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03013754	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013763	Both	LB1 	Subplot E 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03013771	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013802	Both	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03013805	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013806	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013815	28S	LB1 	Subplot E 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03013828	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013832	Both	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03013851	28S	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013853	28S	LB1 	Subplot E 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03013861	28S	LB1 	Subplot E 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03013863	Both	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013883	28S	LB1 	Subplot E 	Leaf Litter Collection 	Diptera	(Endopterygota)	(Endopterygota)
+NZAC03013887	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013893	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013901	28S	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013905	28S	LB1 	Subplot E 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013907	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013913	Both	LB1 	Subplot E 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03013914	28S	LB1 	Subplot E 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013916	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013917	Both	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013919	Both	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013938	28S	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03013947	Both	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03013958	28S	LB1 	Subplot E 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013959	28S	LB1 	Subplot E 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03013960	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013976	28S	LB1 	Subplot E 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03013980	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013985	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013989	Both	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013992	28S	LB1 	Subplot E 	Leaf Litter Collection 	Hymenoptera	0	Hymenoptera
+NZAC03013993	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013998	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03014004	28S	LB1 	Subplot E 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03014019	28S	LB1 	Subplot E 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03014025	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014026	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014032	28S	LB1 	Subplot E 	Leaf Litter Collection 	Arachnida	Opiliones	Opiliones
+NZAC03014036	28S	LB1 	Subplot E 	Leaf Litter Collection 	Arachnida	Opiliones	Opiliones
+NZAC03014041	Both	LB1 	Subplot E 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03014046	Both	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03014054	Both	LB1 	Subplot E 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03014071	28S	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03014075	28S	LB1 	Subplot E 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03014078	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014082	28S	LB1 	Subplot E 	Leaf Litter Collection 	Empty vial	(Endopterygota)	(Endopterygota)
+NZAC03014095	Both	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014100	28S	LB1 	Subplot E 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03014115	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014120	Both	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014151	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014155	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03014156	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03014158	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03014201	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03014211	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014214	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03014216	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Insecta	(Endopterygota)	(Endopterygota)
+NZAC03014253	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014258	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Diptera	Diptera	Diptera
+NZAC03014259	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Amphipoda	Amphipoda	Amphipoda
+NZAC03014272	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014292	Both	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014318	28S	LB1 	Subplot E 	Leaf Litter Collection 	Lepidoptera	0	Lepidoptera
+NZAC03014331	28S	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014355	28S	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014417	Both	LB1 	Subplot E 	Leaf Litter Collection 	Empty vial	0	Empty vial
+NZAC03014423	Both	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC04041423	28S	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	Amphipoda	Amphipoda
+NZAC03006218	COI	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03006286	COI	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03006300	COI	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Orthoptera	0	Orthoptera
+NZAC03006322	COI	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03006350	COI	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Diptera	Diptera	Diptera
+NZAC03006365	COI	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03006371	COI	CM30c30 	Subplot N 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009006	COI	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009025	COI	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009028	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03009032	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03009034	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Arthropoda	0	(Arthropoda)
+NZAC03009037	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	(Gastropoda)	(Gastropoda)
+NZAC03009048	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03009049	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03009050	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	(Gastropoda)	(Gastropoda)
+NZAC03009062	COI	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009064	COI	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Orthoptera	Orthoptera	Orthoptera
+NZAC03009072	COI	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Arachnida	0	(Arachnida)
+NZAC03009076	COI	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009085	COI	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009108	COI	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009113	COI	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009126	COI	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03009149	COI	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03009152	COI	LB1 	Subplot C 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009163	COI	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009169	COI	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009176	COI	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03009230	COI	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Isopoda	Isopoda	Isopoda
+NZAC03009232	COI	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009233	COI	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009249	COI	LB1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03009273	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03009299	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	0	(Gastropoda)	(Gastropoda)
+NZAC03009301	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Arthropoda	0	(Arthropoda)
+NZAC03009314	COI	LB1 	Subplot O 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03009315	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	(Gastropoda)	(Gastropoda)
+NZAC03009324	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03009329	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010144	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010151	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Araneae	Araneae	Araneae
+NZAC03010159	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Araneae	Araneae	Araneae
+NZAC03010160	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03010169	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03010179	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010192	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03010195	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03010196	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03010200	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010214	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010259	COI	Plot 1 	Subplot L 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03010260	COI	Plot 1 	Subplot L 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03010263	COI	Plot 1 	Subplot L 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03010285	COI	Plot 1 	Subplot L 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03010319	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03010326	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03010331	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010337	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03010340	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03010344	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010347	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03010348	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03010355	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03010356	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Thysanoptera	Thysanoptera	Thysanoptera
+NZAC03010359	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03010364	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Araneae	Araneae	Araneae
+NZAC03010369	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Araneae	Araneae	Araneae
+NZAC03010372	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010377	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Empty vial	Opiliones	Opiliones
+NZAC03010381	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03010387	COI	Plot 7 	Subplot M 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03010402	COI	Plot 1 	Subplot L 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03010411	COI	Plot 1 	Subplot L 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03010413	COI	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Isopoda	Isopoda	Isopoda
+NZAC03010414	COI	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Lithobiomorpha	Lithobiomorpha	Lithobiomorpha
+NZAC03010428	COI	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010471	COI	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Insecta	0	(Insecta)
+NZAC03010482	COI	Plot 4 	Subplot H 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010495	COI	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03010511	COI	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010550	COI	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010581	COI	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010582	COI	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Diplopoda	Polydesmida	Polydesmida
+NZAC03010622	COI	Plot 4 	Subplot H 	Invertebrate Pitfall Trap 	Empty vial	Araneae	Araneae
+NZAC03010623	COI	Plot 6 	Subplot A 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03010681	COI	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010721	COI	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03010727	COI	Plot 1 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010747	COI	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Diplopoda	Polydesmida	Polydesmida
+NZAC03010760	COI	CM30c30 	Subplot M 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010780	COI	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010791	COI	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Araneae	0	Araneae
+NZAC03010795	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010820	COI	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010831	COI	Plot 2 	Subplot D 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010846	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Hemiptera	Hemiptera	Hemiptera
+NZAC03010847	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03010850	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03010854	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010855	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Amphipoda	0	Amphipoda
+NZAC03010860	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03010868	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Insecta	Hemiptera	Hemiptera
+NZAC03010872	COI	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03010878	COI	Plot 1 	Subplot D 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03010886	COI	Plot 1 	Subplot L 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03010919	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03010925	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03010934	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03010935	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03010940	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03010948	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03010991	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03011035	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011060	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03011062	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Insecta	Coleoptera	Coleoptera
+NZAC03011067	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Insecta	Coleoptera	Coleoptera
+NZAC03011079	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03011083	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011087	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011113	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011114	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03011123	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Insecta	Coleoptera	Coleoptera
+NZAC03011135	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03011139	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Empty vial	Coleoptera	Coleoptera
+NZAC03011158	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011181	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011183	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011185	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Insecta	Lepidoptera	Lepidoptera
+NZAC03011194	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011211	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011223	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011234	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011244	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011251	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011260	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03011274	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Araneae	0	Araneae
+NZAC03011289	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011293	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011334	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Insecta	Lepidoptera	Lepidoptera
+NZAC03011335	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03011343	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03011356	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Arthropoda	0	(Arthropoda)
+NZAC03011367	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03011371	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03011374	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03011377	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Geophilomorpha	0	Geophilomorpha
+NZAC03011380	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011383	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03011387	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011390	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	0	Hymenoptera	Hymenoptera
+NZAC03011391	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011396	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Thysanoptera	Thysanoptera	Thysanoptera
+NZAC03011423	COI	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Orthoptera	Orthoptera	Orthoptera
+NZAC03011434	COI	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011440	COI	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011451	COI	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011456	COI	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011463	COI	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011478	COI	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03011485	COI	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Hemiptera	Hemiptera	Hemiptera
+NZAC03011538	COI	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Orthoptera	Orthoptera	Orthoptera
+NZAC03011570	COI	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03011571	COI	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03011581	COI	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03011593	COI	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011621	COI	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011652	COI	Plot 4 	Subplot P 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03011664	COI	Plot 3 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03011679	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Lithobiomorpha	0	Lithobiomorpha
+NZAC03011708	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Empty vial	Lepidoptera	Lepidoptera
+NZAC03011713	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03011724	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Araneae	Araneae	Araneae
+NZAC03011727	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03011762	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011766	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011767	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	Lepidoptera	Lepidoptera
+NZAC03011791	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03011809	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011813	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	(Gastropoda)	(Gastropoda)
+NZAC03011816	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	Polydesmida	Polydesmida
+NZAC03011819	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03011820	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011821	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03011822	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	0	Hymenoptera
+NZAC03011823	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011824	COI	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011829	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03011833	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03011834	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Orthoptera	Orthoptera	Orthoptera
+NZAC03011836	COI	Plot 5 	Subplot B 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03011837	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03011838	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Lithobiomorpha	Lithobiomorpha	Lithobiomorpha
+NZAC03011842	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	0	Araneae	Araneae
+NZAC03011849	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011850	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03011853	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011856	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	Lepidoptera	Lepidoptera
+NZAC03011859	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	(Gastropoda)	(Gastropoda)
+NZAC03011861	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011863	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011894	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011897	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011898	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011908	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011909	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011911	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Geophilomorpha	Geophilomorpha	Geophilomorpha
+NZAC03011912	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011913	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011918	COI	Plot 5 	Subplot E 	Invertebrate Pitfall Trap 	Coleoptera	Coleoptera	Coleoptera
+NZAC03011919	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	Lepidoptera	Lepidoptera
+NZAC03011924	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Hemiptera	Hemiptera	Hemiptera
+NZAC03011928	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03011936	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03011949	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03011964	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03011998	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Myriapoda	Polydesmida	Polydesmida
+NZAC03012002	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Myriapoda	Polydesmida	Polydesmida
+NZAC03012018	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	(Myriapoda)	0	(Myriapoda)
+NZAC03012038	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Myriapoda	Polydesmida	Polydesmida
+NZAC03012040	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03012052	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012055	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	(Myriapoda)	0	(Myriapoda)
+NZAC03012065	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012068	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03012080	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Myriapoda	Polydesmida	Polydesmida
+NZAC03012081	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012094	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Myriapoda	Polydesmida	Polydesmida
+NZAC03012109	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012135	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03012136	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03012155	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Myriapoda	Polydesmida	Polydesmida
+NZAC03012162	COI	Plot 6 	Subplot I 	Leaf Litter Collection 	Myriapoda	Polydesmida	Polydesmida
+NZAC03012177	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012181	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012192	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Insecta	Hemiptera	Hemiptera
+NZAC03012201	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Empty vial	(Diplura)	(Diplura)
+NZAC03012202	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012219	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Thysanoptera	0	Thysanoptera
+NZAC03012233	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012252	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03012262	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012264	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012268	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012269	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03012281	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012300	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012306	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03012308	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012320	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012339	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012350	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03012363	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012372	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Diplura	(Diplura)	(Diplura)
+NZAC03012381	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Siphonaptera	Siphonaptera	Siphonaptera
+NZAC03012387	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03012390	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012391	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012395	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012407	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012410	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012418	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Amphipoda	0	Amphipoda
+NZAC03012421	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012427	COI	Plot 4 	Subplot A 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012442	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03012446	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03012458	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03012466	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03012476	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012525	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03012541	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03012544	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Hemiptera	Hemiptera
+NZAC03012581	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012680	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012701	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Symphyla	0	Symphyla
+NZAC03012708	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03012710	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03012712	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012713	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012715	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03012718	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Lithobiomorpha	Lithobiomorpha	Lithobiomorpha
+NZAC03012720	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012721	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Lithobiomorpha	Lithobiomorpha	Lithobiomorpha
+NZAC03012731	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03012739	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012752	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012755	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012756	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Empty vial	Lepidoptera	Lepidoptera
+NZAC03012758	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012761	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012762	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012780	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Arthropoda	Hemiptera	Hemiptera
+NZAC03012784	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03012790	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Diplopoda	0	(Diplopoda)
+NZAC03012799	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	0	0
+NZAC03012814	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03012819	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012820	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03012841	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03012853	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Empty vial	Symphyla	Symphyla
+NZAC03012868	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03012910	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03012930	COI	Plot 3 	Subplot N 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03012932	COI	Plot 5 	Subplot I 	Leaf Litter Collection 	0	Polydesmida	Polydesmida
+NZAC03012966	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03012991	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013002	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03013005	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Araneae	0	Araneae
+NZAC03013008	COI	Plot 2 	Subplot C 	Leaf Litter Collection 	Lepidoptera	0	Lepidoptera
+NZAC03013106	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Arachnida	Opiliones	Opiliones
+NZAC03013134	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03013178	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03013183	COI	Plot 6 	Subplot N 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03013185	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03013269	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013294	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Gastropoda	(Gastropoda)	(Gastropoda)
+NZAC03013349	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013353	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013374	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Isopoda	0	Isopoda
+NZAC03013398	COI	Plot 8 	Subplot O 	Leaf Litter Collection 	Pseudoscorpiones	Pseudoscorpiones	Pseudoscorpiones
+NZAC03013460	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	Polydesmida	Polydesmida
+NZAC03013466	COI	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Orthoptera	Orthoptera	Orthoptera
+NZAC03013477	COI	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03013484	COI	Plot 3 	Subplot H 	Invertebrate Pitfall Trap 	Empty vial	0	Empty vial
+NZAC03013487	COI	Plot 4 	Subplot A 	Invertebrate Pitfall Trap 	Empty vial	Lepidoptera	Lepidoptera
+NZAC03013490	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Diplopoda	Polydesmida	Polydesmida
+NZAC03013492	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Hemiptera	Hemiptera	Hemiptera
+NZAC03013497	COI	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013506	COI	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03013508	COI	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Opiliones	Opiliones	Opiliones
+NZAC03013517	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Arthropoda	0	(Arthropoda)
+NZAC03013523	COI	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Diptera	0	Diptera
+NZAC03013537	COI	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03013538	COI	Plot 2 	Subplot M 	Invertebrate Pitfall Trap 	Orthoptera	0	Orthoptera
+NZAC03013542	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03013545	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Insecta	Hemiptera	Hemiptera
+NZAC03013548	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03013549	COI	Plot 5 	Subplot A 	Invertebrate Pitfall Trap 	Coleoptera	0	Coleoptera
+NZAC03013587	COI	Plot 3 	Subplot A 	Invertebrate Pitfall Trap 	Araneae	Araneae	Araneae
+NZAC03013599	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Arthropoda	Hemiptera	Hemiptera
+NZAC03013601	COI	Plot 2 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	Hemiptera	Hemiptera
+NZAC03013604	COI	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03013688	COI	Plot 6 	Subplot E 	Invertebrate Pitfall Trap 	Empty vial	Hymenoptera	Hymenoptera
+NZAC03013713	COI	LB1 	Subplot E 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03013732	COI	LB1 	Subplot E 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera
+NZAC03013748	COI	LB1 	Subplot E 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03013809	COI	LB1 	Subplot E 	Leaf Litter Collection 	Hemiptera	Hemiptera	Hemiptera
+NZAC03013817	COI	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013880	COI	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03013889	COI	LB1 	Subplot E 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03013896	COI	LB1 	Subplot E 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03013906	COI	LB1 	Subplot E 	Leaf Litter Collection 	Hemiptera	0	Hemiptera
+NZAC03014107	COI	LB1 	Subplot E 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03014116	COI	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014126	COI	LB1 	Subplot E 	Leaf Litter Collection 	Diptera	0	Diptera
+NZAC03014139	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014198	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03014209	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014271	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Araneae	0	Araneae
+NZAC03014273	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Isopoda	Isopoda	Isopoda
+NZAC03014306	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03014307	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014321	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Insecta	Lepidoptera	Lepidoptera
+NZAC03014323	COI	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014329	COI	CM30c30 	Subplot L 	Leaf Litter Collection 	Diplopoda	Polydesmida	Polydesmida
+NZAC03014353	COI	LB1 	Subplot E 	Leaf Litter Collection 	Hymenoptera	Hymenoptera	Hymenoptera
+NZAC03014358	COI	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014360	COI	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	Coleoptera	Coleoptera
+NZAC03014430	COI	LB1 	Subplot E 	Leaf Litter Collection 	Coleoptera	0	Coleoptera
+NZAC03014443	COI	LB1 	Subplot E 	Leaf Litter Collection 	Lepidoptera	Lepidoptera	Lepidoptera

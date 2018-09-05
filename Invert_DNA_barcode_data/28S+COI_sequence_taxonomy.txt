@@ -1,0 +1,1949 @@
+NZAC	Plot	Method	LCA	LCA_rank	Gene	Phylum	Class	Order
+NZAC03012192	Plot_4	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03012281	Plot_4	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012300	Plot_4	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012201	Plot_4	Leaf-Litter	Diplura	class	28S only	Arthropoda	Diplura	(Diplura)
+NZAC03012269	Plot_4	Leaf-Litter	Cicadellidae	family	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03012272	Plot_4	Leaf-Litter	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03012363	Plot_4	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012391	Plot_4	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012381	Plot_4	Leaf-Litter	Siphonaptera	order	28S only	Arthropoda	Insecta	Siphonaptera
+NZAC03012395	Plot_4	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012421	Plot_4	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012387	Plot_4	Leaf-Litter	Aphidoidea	superfamily	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03012372	Plot_4	Leaf-Litter	Diplura	class	28S only	Arthropoda	Diplura	(Diplura)
+NZAC03012427	Plot_4	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012446	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012038	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012841	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012002	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012544	Plot_5	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011708	Plot_6	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03012068	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011947	Plot_5	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03010940	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012966	Plot_6	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012970	Plot_6	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013159	Plot_6	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012136	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011294	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03010935	Plot_6	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03009299	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009028	Plot_7	Leaf-Litter	Formicidae	family	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03010151	Plot_7	Leaf-Litter	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03009048	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010331	Plot_7	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009049	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009315	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010169	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010192	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010319	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009050	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010144	Plot_7	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010159	Plot_7	Leaf-Litter	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03010179	Plot_7	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010195	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009032	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009324	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010160	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010214	Plot_7	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009037	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009273	Plot_7	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03009329	Plot_7	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010200	Plot_7	Leaf-Litter	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03010356	Plot_7	Leaf-Litter	Thysanoptera	order	28S only	Arthropoda	Insecta	Thysanoptera
+NZAC03010344	Plot_7	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010372	Plot_7	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010364	Plot_7	Leaf-Litter	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011060	Plot_8	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011067	Plot_8	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010259	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011079	Plot_8	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010260	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011380	Plot_8	Leaf-Litter	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012177	Plot_8	Leaf-Litter	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013002	Plot_8	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013294	Plot_8	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03013398	Plot_8	Leaf-Litter	Pseudoscorpiones	order	28S only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03013349	Plot_8	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012339	Plot_8	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013353	Plot_8	Leaf-Litter	Pselaphinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013269	Plot_8	Leaf-Litter	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013335	Plot_8	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03014209	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03014353	Plot_LB1	Leaf-Litter	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03014358	Plot_LB1	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03014307	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03014273	Plot_CM30c30	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03014321	Plot_CM30c30	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03013713	Plot_LB1	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013809	Plot_LB1	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013817	Plot_LB1	Leaf-Litter	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013748	Plot_LB1	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013732	Plot_LB1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03009232	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009233	Plot_LB1	Pitfall-Trap	Scarabaeidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009064	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S only	Arthropoda	Insecta	Orthoptera
+NZAC03009230	Plot_LB1	Pitfall-Trap	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03013587	Plot_3	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03010879	Plot_1	Pitfall-Trap	Opiliones	order	28S only	Arthropoda	Arachnida	Opiliones
+NZAC03010894	Plot_1	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03010897	Plot_1	Pitfall-Trap	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03009122	Plot_LB1	Pitfall-Trap	Carabidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009163	Plot_LB1	Pitfall-Trap	Scaphidiinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013542	Plot_2	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03013601	Plot_2	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013460	Plot_2	Pitfall-Trap	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011610	Plot_6	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011538	Plot_5	Pitfall-Trap	Orthoptera	order	28S only	Arthropoda	Insecta	Orthoptera
+NZAC03011824	Plot_5	Pitfall-Trap	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011478	Plot_5	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011423	Plot_5	Pitfall-Trap	Orthoptera	order	28S only	Arthropoda	Insecta	Orthoptera
+NZAC03011727	Plot_4	Pitfall-Trap	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011924	Plot_4	Pitfall-Trap	Aphidoidea	superfamily	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011842	Plot_4	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011485	Plot_4	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011451	Plot_4	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011571	Plot_4	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03011621	Plot_4	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011539	Plot_4	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011430	Plot_4	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011651	Plot_4	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011459	Plot_4	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011421	Plot_4	Pitfall-Trap	Blattodea	order	28S only	Arthropoda	Insecta	Blattodea
+NZAC03010495	Plot_6	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03010428	Plot_6	Pitfall-Trap	Formicidae	family	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03011762	Plot_5	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011829	Plot_5	Pitfall-Trap	Formicidae	family	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03010886	Plot_1	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011833	Plot_5	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03010860	Plot_1	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013537	Plot_2	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03006371	Plot_CM30c30	Pitfall-Trap	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03006286	Plot_CM30c30	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011581	Plot_3	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03006353	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S only	Arthropoda	Insecta	Diptera
+NZAC03006350	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S only	Arthropoda	Insecta	Diptera
+NZAC03011664	Plot_3	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03006322	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S only	Arthropoda	Insecta	Diptera
+NZAC03013688	Plot_6	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03010414	Plot_6	Pitfall-Trap	Lithobiomorpha	order	28S only	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03009006	Plot_LB1	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03009009	Plot_LB1	Pitfall-Trap	Formicidae	family	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03009137	Plot_LB1	Pitfall-Trap	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009152	Plot_LB1	Pitfall-Trap	Scaphidiinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010413	Plot_6	Pitfall-Trap	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03010623	Plot_6	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03010511	Plot_6	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03012930	Plot_3	Leaf-Litter	Pselaphinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012708	Plot_3	Leaf-Litter	Pseudoscorpiones	order	28S only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012710	Plot_3	Leaf-Litter	Pseudoscorpiones	order	28S only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012718	Plot_3	Leaf-Litter	Lithobiomorpha	order	28S only	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03012761	Plot_3	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013175	Plot_6	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009062	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011062	Plot_2	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011183	Plot_2	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013257	Plot_8	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011293	Plot_6	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013264	Plot_8	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011724	Plot_6	Leaf-Litter	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011787	Plot_6	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011788	Plot_6	Leaf-Litter	Opiliones	order	28S only	Arthropoda	Arachnida	Opiliones
+NZAC03011809	Plot_6	Leaf-Litter	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011894	Plot_6	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011936	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03013300	Plot_8	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013313	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012382	Plot_4	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012413	Plot_4	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012425	Plot_4	Leaf-Litter	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013346	Plot_8	Leaf-Litter	Thysanoptera	order	28S only	Arthropoda	Insecta	Thysanoptera
+NZAC03012814	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03013379	Plot_8	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013124	Plot_6	Leaf-Litter	Diptera	order	28S only	Arthropoda	Insecta	Diptera
+NZAC03012442	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011949	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03009076	Plot_LB1	Pitfall-Trap	Scaphidiinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013604	Plot_6	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03009025	Plot_LB1	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03010581	Plot_6	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009149	Plot_LB1	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011766	Plot_5	Pitfall-Trap	Salpingidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011918	Plot_5	Pitfall-Trap	Salpingidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011863	Plot_5	Pitfall-Trap	Scaphidiinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010795	Plot_1	Pitfall-Trap	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011838	Plot_5	Pitfall-Trap	Lithobiomorpha	order	28S only	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03010868	Plot_1	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03010582	Plot_6	Pitfall-Trap	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011834	Plot_5	Pitfall-Trap	Orthoptera	order	28S only	Arthropoda	Insecta	Orthoptera
+NZAC03011821	Plot_5	Pitfall-Trap	Formicidae	family	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03011849	Plot_5	Pitfall-Trap	Salpingidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011823	Plot_5	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011850	Plot_5	Pitfall-Trap	Formicidae	family	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03011767	Plot_5	Pitfall-Trap	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011853	Plot_5	Pitfall-Trap	Salpingidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011837	Plot_5	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03010846	Plot_1	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03010550	Plot_6	Pitfall-Trap	Scaphidiinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011139	Plot_2	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011185	Plot_2	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011338	Plot_2	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011083	Plot_2	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011181	Plot_2	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011194	Plot_2	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011268	Plot_2	Leaf-Litter	Pauropoda	order	28S only	Arthropoda	(Myriapoda)	Pauropoda
+NZAC03011334	Plot_2	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011271	Plot_2	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011335	Plot_2	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011387	Plot_8	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011390	Plot_8	Leaf-Litter	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03012202	Plot_8	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011374	Plot_8	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011391	Plot_8	Leaf-Litter	Pselaphinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011113	Plot_8	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011123	Plot_8	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011383	Plot_8	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011913	Plot_4	Pitfall-Trap	Trogidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011813	Plot_4	Pitfall-Trap	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010622	Plot_4	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011819	Plot_4	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011856	Plot_4	Pitfall-Trap	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011919	Plot_4	Pitfall-Trap	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03011911	Plot_4	Pitfall-Trap	Geophilomorpha	order	28S only	Arthropoda	Chilopoda	Geophilomorpha
+NZAC03011816	Plot_4	Pitfall-Trap	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011861	Plot_4	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011908	Plot_4	Pitfall-Trap	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011897	Plot_4	Pitfall-Trap	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011859	Plot_4	Pitfall-Trap	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03011898	Plot_4	Pitfall-Trap	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011909	Plot_4	Pitfall-Trap	Trogidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011912	Plot_4	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010482	Plot_4	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011902	Plot_4	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03011820	Plot_4	Pitfall-Trap	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013487	Plot_4	Pitfall-Trap	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03012525	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011998	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012458	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012094	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012932	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012541	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012466	Plot_5	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012080	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011223	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011158	Plot_CM30c30	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011251	Plot_CM30c30	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011035	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011234	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03014198	Plot_CM30c30	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03011244	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011087	Plot_CM30c30	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011211	Plot_CM30c30	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03013134	Plot_CM30c30	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03010369	Plot_7	Leaf-Litter	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03014329	Plot_CM30c30	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03014301	Plot_CM30c30	Leaf-Litter	Symphyla	order	28S only	Arthropoda	(Myriapoda)	Symphyla
+NZAC03010347	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03014107	Plot_LB1	Leaf-Litter	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03014360	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010348	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010377	Plot_7	Leaf-Litter	Opiliones	order	28S only	Arthropoda	Arachnida	Opiliones
+NZAC03014306	Plot_CM30c30	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03010387	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03014443	Plot_LB1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03010381	Plot_7	Leaf-Litter	Pseudoscorpiones	order	28S only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03010780	Plot_2	Pitfall-Trap	Endomychidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013466	Plot_5	Pitfall-Trap	Orthoptera	order	28S only	Arthropoda	Insecta	Orthoptera
+NZAC03013498	Plot_5	Pitfall-Trap	Araneae	order	28S only	Arthropoda	Arachnida	Araneae
+NZAC03013640	Plot_5	Pitfall-Trap	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03013117	Plot_6	Leaf-Litter	Lithobiomorpha	order	28S only	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03013183	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012155	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03010919	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012065	Plot_6	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012162	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012109	Plot_6	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012135	Plot_6	Leaf-Litter	Aphidoidea	superfamily	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03011289	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011351	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03013106	Plot_6	Leaf-Litter	Opiliones	order	28S only	Arthropoda	Arachnida	Opiliones
+NZAC03013178	Plot_6	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03013545	Plot_2	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013548	Plot_2	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013490	Plot_2	Pitfall-Trap	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03013599	Plot_2	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013492	Plot_2	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03009169	Plot_LB1	Pitfall-Trap	Scaphidiinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009108	Plot_LB1	Pitfall-Trap	Scaphidiinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009113	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009249	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03006218	Plot_CM30c30	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013508	Plot_2	Pitfall-Trap	Opiliones	order	28S only	Arthropoda	Arachnida	Opiliones
+NZAC03013477	Plot_2	Pitfall-Trap	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013506	Plot_2	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03011637	Plot_6	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011554	Plot_6	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011663	Plot_6	Pitfall-Trap	Thysanoptera	order	28S only	Arthropoda	Insecta	Thysanoptera
+NZAC03011493	Plot_6	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03011436	Plot_6	Pitfall-Trap	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03011439	Plot_6	Pitfall-Trap	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03013010	Plot_2	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03011396	Plot_2	Leaf-Litter	Thysanoptera	order	28S only	Arthropoda	Insecta	Thysanoptera
+NZAC03012929	Plot_3	Leaf-Litter	Pselaphinae	subfamily	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012991	Plot_2	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010411	Plot_1	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03012868	Plot_3	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03012910	Plot_3	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03012770	Plot_3	Leaf-Litter	Symphyla	order	28S only	Arthropoda	(Myriapoda)	Symphyla
+NZAC03012720	Plot_3	Leaf-Litter	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012731	Plot_3	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012780	Plot_3	Leaf-Litter	Hemiptera	order	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03012713	Plot_3	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012721	Plot_3	Leaf-Litter	Lithobiomorpha	order	28S only	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03012756	Plot_3	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03012741	Plot_3	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012853	Plot_3	Leaf-Litter	Symphyla	order	28S only	Arthropoda	(Myriapoda)	Symphyla
+NZAC03012715	Plot_3	Leaf-Litter	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012775	Plot_3	Leaf-Litter	Formicidae	family	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03012784	Plot_3	Leaf-Litter	Pseudoscorpiones	order	28S only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012752	Plot_3	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03012789	Plot_3	Leaf-Litter	Symphyla	order	28S only	Arthropoda	(Myriapoda)	Symphyla
+NZAC03009221	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03010100	Plot_1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010130	Plot_1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010131	Plot_1	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009089	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03009203	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03009207	Plot_1	Leaf-Litter	Formicidae	family	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03010061	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03010101	Plot_1	Leaf-Litter	Isopoda	order	28S only	Arthropoda	Malacostraca	Isopoda
+NZAC03010103	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03010119	Plot_1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010133	Plot_1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010134	Plot_1	Leaf-Litter	Hymenoptera	order	28S only	Arthropoda	Insecta	Hymenoptera
+NZAC03010221	Plot_1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010062	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03010080	Plot_1	Leaf-Litter	Opiliones	order	28S only	Arthropoda	Arachnida	Opiliones
+NZAC03010108	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03010123	Plot_1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03009213	Plot_1	Leaf-Litter	Lepidoptera	order	28S only	Arthropoda	Insecta	Lepidoptera
+NZAC03010082	Plot_1	Leaf-Litter	Staphylinidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010083	Plot_1	Leaf-Litter	Curculionidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010096	Plot_1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010109	Plot_1	Leaf-Litter	Ptiliidae	family	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03010747	Plot_CM30c30	Pitfall-Trap	Polydesmida	order	28S only	Arthropoda	Diplopoda	Polydesmida
+NZAC03010760	Plot_CM30c30	Pitfall-Trap	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013880	Plot_LB1	Leaf-Litter	Coleoptera	order	28S only	Arthropoda	Insecta	Coleoptera
+NZAC03013231	Plot_8	Leaf-Litter	Aphidoidea	superfamily	28S only	Arthropoda	Insecta	Hemiptera
+NZAC03013618	Plot_2	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013452	Plot_2	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013592	Plot_2	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013504	Plot_2	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013465	Plot_3	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013462	Plot_3	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010728	Plot_1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013666	Plot_3	Pitfall-Trap	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011585	Plot_3	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013325	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012481	Plot_8	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013217	Plot_8	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013276	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013631	Plot_3	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013362	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013405	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012482	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013259	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013279	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013562	Plot_3	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013345	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013364	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013377	Plot_8	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03013407	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013281	Plot_8	Leaf-Litter	Haplotaxida	order	COI only	Annelida	(Oligochaeta)	Haplotaxida
+NZAC03013303	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013668	Plot_3	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013366	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013380	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013408	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013262	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013367	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013634	Plot_3	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013382	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013413	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012663	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013370	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013284	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013317	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013333	Plot_8	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03013388	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011502	Plot_3	Pitfall-Trap	Thysanoptera	order	COI only	Arthropoda	Insecta	Thysanoptera
+NZAC03010811	Plot_2	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010896	Plot_1	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010636	Plot_2	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011528	Plot_3	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010830	Plot_2	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011556	Plot_3	Pitfall-Trap	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03010796	Plot_2	Pitfall-Trap	Tettigoniidae	family	COI only	Arthropoda	Insecta	Orthoptera
+NZAC03009051	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009311	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009121	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009119	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013564	Plot_3	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009061	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013685	Plot_3	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011817	Plot_4	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010575	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011557	Plot_3	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009005	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03006328	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009007	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013673	Plot_3	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03006331	Plot_CM30c30	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03009150	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010469	Plot_6	Pitfall-Trap	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03009256	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009246	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010827	Plot_2	Pitfall-Trap	Endomychidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009094	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013544	Plot_2	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010710	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011464	Plot_6	Pitfall-Trap	Pancrustacea	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03009316	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009098	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011445	Plot_3	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010685	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010749	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010707	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010758	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013515	Plot_2	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009202	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010522	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010489	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010540	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010688	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009340	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009196	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009197	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009090	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010455	Plot_6	Pitfall-Trap	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03011453	Plot_4	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013674	Plot_3	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013650	Plot_3	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010901	Plot_1	Pitfall-Trap	Salpingidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013624	Plot_3	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013680	Plot_3	Pitfall-Trap	Tettigoniidae	family	COI only	Arthropoda	Insecta	Orthoptera
+NZAC03013676	Plot_3	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013626	Plot_3	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013509	Plot_3	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013454	Plot_3	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013660	Plot_3	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011422	Plot_3	Pitfall-Trap	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03011650	Plot_3	Pitfall-Trap	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011553	Plot_3	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011480	Plot_3	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03011424	Plot_3	Pitfall-Trap	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011505	Plot_3	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03011477	Plot_3	Pitfall-Trap	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03011532	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012211	Plot_4	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012237	Plot_4	Leaf-Litter	Poduromorpha	suborder	COI only	Arthropoda	Ellipura	Collembola
+NZAC03012247	Plot_4	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012212	Plot_4	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012297	Plot_4	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012251	Plot_4	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012267	Plot_4	Leaf-Litter	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012282	Plot_4	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012232	Plot_4	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011447	Plot_4	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012285	Plot_4	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012205	Plot_4	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012243	Plot_4	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012303	Plot_4	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012255	Plot_4	Leaf-Litter	Hexapoda	superclass	COI only	Arthropoda	(Hexapoda)	(Hexapoda)
+NZAC03012275	Plot_4	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03011476	Plot_4	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03012417	Plot_4	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012351	Plot_4	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012331	Plot_4	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011614	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012368	Plot_4	Leaf-Litter	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011448	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012385	Plot_4	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012348	Plot_4	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011471	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011675	Plot_6	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011721	Plot_6	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011812	Plot_6	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011876	Plot_6	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012907	Plot_5	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03011688	Plot_6	Leaf-Litter	Trogidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011642	Plot_4	Pitfall-Trap	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011895	Plot_6	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012613	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03011706	Plot_6	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011793	Plot_6	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03011896	Plot_6	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012009	Plot_6	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011527	Plot_4	Pitfall-Trap	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03012534	Plot_5	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03011797	Plot_6	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011953	Plot_6	Leaf-Litter	Myriapoda	subphylum	COI only	Arthropoda	(Myriapoda)	(Myriapoda)
+NZAC03012015	Plot_6	Leaf-Litter	Mandibulata	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03011710	Plot_6	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03011802	Plot_6	Leaf-Litter	Lithobiomorpha	order	COI only	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03011960	Plot_6	Leaf-Litter	Mandibulata	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03011643	Plot_4	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012696	Plot_5	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012559	Plot_5	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011712	Plot_6	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011807	Plot_6	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03012078	Plot_6	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012844	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03011555	Plot_4	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03011810	Plot_6	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012095	Plot_6	Leaf-Litter	Neoptera	subclass	COI only	Arthropoda	Insecta	(Insecta)
+NZAC03013298	Plot_6	Leaf-Litter	Geophilomorpha	order	COI only	Arthropoda	Chilopoda	Geophilomorpha
+NZAC03011193	Plot_6	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013039	Plot_6	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011587	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010953	Plot_6	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011886	Plot_6	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013042	Plot_6	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011504	Plot_4	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010922	Plot_6	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03011306	Plot_6	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03013144	Plot_6	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011530	Plot_4	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010963	Plot_6	Leaf-Litter	Geophilomorpha	order	COI only	Arthropoda	Chilopoda	Geophilomorpha
+NZAC03012975	Plot_6	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013095	Plot_6	Leaf-Litter	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010926	Plot_6	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03013097	Plot_6	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013147	Plot_6	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013022	Plot_6	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012909	Plot_6	Leaf-Litter	Haplotaxida	order	COI only	Annelida	(Oligochaeta)	Haplotaxida
+NZAC03012173	Plot_6	Leaf-Litter	Pauropoda	order	COI only	Arthropoda	(Myriapoda)	Pauropoda
+NZAC03013036	Plot_6	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03009040	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009330	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010201	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010310	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009277	Plot_7	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010189	Plot_7	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010311	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009279	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009313	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009334	Plot_7	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03010152	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010177	Plot_7	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010209	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010312	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009280	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010136	Plot_7	Leaf-Litter	Diplopoda	class	COI only	Arthropoda	Diplopoda	(Diplopoda)
+NZAC03010210	Plot_7	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03010320	Plot_7	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010336	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010171	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010322	Plot_7	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010172	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010182	Plot_7	Leaf-Litter	Pancrustacea	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03010197	Plot_7	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03010323	Plot_7	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010593	Plot_4	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009296	Plot_7	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03010149	Plot_7	Leaf-Litter	Pancrustacea	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03010164	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010183	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010384	Plot_7	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010385	Plot_7	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010365	Plot_7	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010388	Plot_7	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010354	Plot_7	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010368	Plot_7	Leaf-Litter	Pancrustacea	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03010918	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011027	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010870	Plot_1	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03011110	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03014141	Plot_CM30c30	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03014214	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010974	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011033	Plot_CM30c30	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011092	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013771	Plot_CM30c30	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014196	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03014216	Plot_CM30c30	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03013019	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013893	Plot_CM30c30	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010984	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011040	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011101	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011146	Plot_CM30c30	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011238	Plot_CM30c30	Leaf-Litter	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012937	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013045	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013960	Plot_CM30c30	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014149	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011103	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011242	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013061	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013998	Plot_CM30c30	Leaf-Litter	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03011054	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011168	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03012946	Plot_CM30c30	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03013082	Plot_CM30c30	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03014155	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011153	Plot_CM30c30	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03014156	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03014258	Plot_CM30c30	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011017	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011088	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011222	Plot_CM30c30	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03011247	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03014158	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010619	Plot_4	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03014259	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03014276	Plot_CM30c30	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03014429	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03014100	Plot_LB1	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03014115	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010531	Plot_4	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014355	Plot_CM30c30	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014331	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014272	Plot_CM30c30	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014340	Plot_LB1	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03014427	Plot_LB1	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03013691	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013754	Plot_LB1	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013805	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014032	Plot_LB1	Leaf-Litter	Opiliones	order	COI only	Arthropoda	Arachnida	Opiliones
+NZAC03013806	Plot_LB1	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013901	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013958	Plot_LB1	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03014036	Plot_LB1	Leaf-Litter	Opiliones	order	COI only	Arthropoda	Arachnida	Opiliones
+NZAC03014071	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013851	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013905	Plot_LB1	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013959	Plot_LB1	Leaf-Litter	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013993	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014040	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013714	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013737	Plot_LB1	Leaf-Litter	Neuroptera	order	COI only	Arthropoda	Insecta	Neuroptera
+NZAC03013815	Plot_LB1	Leaf-Litter	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03013883	Plot_LB1	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03013976	Plot_LB1	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03014004	Plot_LB1	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03014075	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010560	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013767	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013853	Plot_LB1	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03013887	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013907	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013980	Plot_LB1	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014019	Plot_LB1	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03014078	Plot_LB1	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013801	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013828	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013860	Plot_LB1	Leaf-Litter	Staphylinidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013938	Plot_LB1	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013750	Plot_LB1	Leaf-Litter	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013861	Plot_LB1	Leaf-Litter	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010563	Plot_4	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013914	Plot_LB1	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013985	Plot_LB1	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014025	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014082	Plot_LB1	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03013916	Plot_LB1	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013952	Plot_LB1	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014026	Plot_LB1	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010506	Plot_4	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03014053	Plot_LB1	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03010644	Plot_4	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011431	Plot_4	Pitfall-Trap	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011543	Plot_4	Pitfall-Trap	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03011513	Plot_4	Pitfall-Trap	Spirostreptida	order	COI only	Arthropoda	Diplopoda	Spirostreptida
+NZAC03011514	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011427	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011567	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011648	Plot_4	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03011628	Plot_4	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013577	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013665	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013581	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013471	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013551	Plot_5	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013662	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013611	Plot_5	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013638	Plot_5	Pitfall-Trap	Carabidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013444	Plot_5	Pitfall-Trap	Orthoptera	order	COI only	Arthropoda	Insecta	Orthoptera
+NZAC03013612	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013446	Plot_5	Pitfall-Trap	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03013501	Plot_5	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013502	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013493	Plot_5	Pitfall-Trap	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03013474	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013500	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013669	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011264	Plot_2	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011266	Plot_2	Leaf-Litter	Hexapoda	superclass	COI only	Arthropoda	(Hexapoda)	(Hexapoda)
+NZAC03011314	Plot_2	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011330	Plot_2	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011169	Plot_2	Leaf-Litter	Diplopoda	class	COI only	Arthropoda	Diplopoda	(Diplopoda)
+NZAC03013610	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011331	Plot_2	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011339	Plot_2	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011179	Plot_2	Leaf-Litter	Psocoptera	order	COI only	Arthropoda	Insecta	Psocoptera
+NZAC03013525	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011333	Plot_2	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011172	Plot_2	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013553	Plot_5	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013679	Plot_5	Pitfall-Trap	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03011345	Plot_2	Leaf-Litter	Diplopoda	class	COI only	Arthropoda	Diplopoda	(Diplopoda)
+NZAC03011128	Plot_2	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03011175	Plot_2	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011255	Plot_2	Leaf-Litter	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012989	Plot_2	Leaf-Litter	Staphylinidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013003	Plot_2	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012861	Plot_3	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03012913	Plot_3	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012924	Plot_3	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012872	Plot_3	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012914	Plot_3	Leaf-Litter	Diplopoda	class	COI only	Arthropoda	Diplopoda	(Diplopoda)
+NZAC03012925	Plot_3	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012992	Plot_2	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013639	Plot_5	Pitfall-Trap	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03012916	Plot_3	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011402	Plot_2	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012866	Plot_3	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012876	Plot_3	Leaf-Litter	Staphylinidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012918	Plot_3	Leaf-Litter	Diplopoda	class	COI only	Arthropoda	Diplopoda	(Diplopoda)
+NZAC03013468	Plot_5	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011394	Plot_2	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012867	Plot_3	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03011395	Plot_2	Leaf-Litter	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03013529	Plot_5	Pitfall-Trap	Thysanoptera	order	COI only	Arthropoda	Insecta	Thysanoptera
+NZAC03012995	Plot_2	Leaf-Litter	Staphylinidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012921	Plot_3	Leaf-Litter	Neoptera	subclass	COI only	Arthropoda	Insecta	(Insecta)
+NZAC03013011	Plot_2	Leaf-Litter	Mandibulata	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03012711	Plot_3	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03012738	Plot_3	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03012769	Plot_3	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011846	Plot_5	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012732	Plot_3	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012764	Plot_3	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011757	Plot_5	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012692	Plot_3	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012749	Plot_3	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012766	Plot_3	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03011764	Plot_5	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012782	Plot_3	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03012735	Plot_3	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012743	Plot_3	Leaf-Litter	Diplopoda	class	COI only	Arthropoda	Diplopoda	(Diplopoda)
+NZAC03011815	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012810	Plot_3	Leaf-Litter	Pancrustacea	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03012737	Plot_3	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012812	Plot_3	Leaf-Litter	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03010288	Plot_1	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03010412	Plot_1	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03010261	Plot_1	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010283	Plot_1	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03010298	Plot_1	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011866	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011840	Plot_5	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013243	Plot_8	Leaf-Litter	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03009063	Plot_LB1	Pitfall-Trap	Scarabaeidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010936	Plot_6	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010947	Plot_6	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013255	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013290	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013292	Plot_8	Leaf-Litter	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03011830	Plot_5	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011283	Plot_6	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011412	Plot_6	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03011696	Plot_6	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011715	Plot_6	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03011937	Plot_5	Leaf-Litter	Lithobiomorpha	order	COI only	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03011951	Plot_5	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011974	Plot_5	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012077	Plot_5	Leaf-Litter	Geophilomorpha	order	COI only	Arthropoda	Chilopoda	Geophilomorpha
+NZAC03012121	Plot_5	Leaf-Litter	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012179	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012182	Plot_8	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03012195	Plot_8	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012276	Plot_4	Leaf-Litter	Elateridae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012313	Plot_4	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03013347	Plot_8	Leaf-Litter	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012356	Plot_4	Leaf-Litter	Staphylinidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012367	Plot_4	Leaf-Litter	Pseudoscorpiones	order	COI only	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03013350	Plot_8	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012383	Plot_4	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012397	Plot_4	Leaf-Litter	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013387	Plot_8	Leaf-Litter	Eupulmonata	no rank	COI only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03012484	Plot_8	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011818	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012548	Plot_5	Leaf-Litter	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03012595	Plot_5	Leaf-Litter	Polydesmida	order	COI only	Arthropoda	Diplopoda	Polydesmida
+NZAC03013417	Plot_8	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012694	Plot_5	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03012786	Plot_5	Leaf-Litter	Eupulmonata	no rank	COI only	Mollusca	Gastropoda	(Gastropoda)
+NZAC03012825	Plot_5	Leaf-Litter	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03012828	Plot_5	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012847	Plot_5	Leaf-Litter	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03012848	Plot_5	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012980	Plot_6	Leaf-Litter	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03012986	Plot_6	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013023	Plot_6	Leaf-Litter	Geophilomorpha	order	COI only	Arthropoda	Chilopoda	Geophilomorpha
+NZAC03013041	Plot_6	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03013043	Plot_6	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03012601	Plot_5	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03011939	Plot_5	Leaf-Litter	Polydesmida	order	COI only	Arthropoda	Diplopoda	Polydesmida
+NZAC03012704	Plot_5	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012697	Plot_5	Leaf-Litter	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03012501	Plot_5	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03011946	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03012839	Plot_5	Leaf-Litter	Ptiliidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010832	Plot_2	Pitfall-Trap	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03012806	Plot_5	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012664	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03012829	Plot_5	Leaf-Litter	Neoptera	subclass	COI only	Arthropoda	Insecta	(Insecta)
+NZAC03011980	Plot_5	Leaf-Litter	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03012709	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03012520	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03012568	Plot_5	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012634	Plot_5	Leaf-Litter	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03012530	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03012488	Plot_5	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012681	Plot_5	Leaf-Litter	Lithobiomorpha	order	COI only	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03012796	Plot_5	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012637	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03011489	Plot_5	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03012539	Plot_5	Leaf-Litter	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03012612	Plot_5	Leaf-Litter	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03012883	Plot_5	Leaf-Litter	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03012899	Plot_5	Leaf-Litter	Protostomia	no rank	COI only	(Protostomia)	(Protostomia)	(Protostomia)
+NZAC03012894	Plot_5	Leaf-Litter	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03012903	Plot_5	Leaf-Litter	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03011517	Plot_5	Pitfall-Trap	Salpingidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010552	Plot_2	Pitfall-Trap	Endomychidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011518	Plot_5	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010578	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010566	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010818	Plot_2	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010418	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010661	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010487	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010605	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010486	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010663	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010417	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010460	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010505	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010490	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010439	Plot_6	Pitfall-Trap	Scarabaeidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010436	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010524	Plot_2	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010652	Plot_6	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010446	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010549	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010816	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010588	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010650	Plot_6	Pitfall-Trap	Scarabaeidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010568	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010570	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010571	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010475	Plot_6	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010630	Plot_6	Pitfall-Trap	Salpingidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010554	Plot_6	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013632	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013569	Plot_2	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010485	Plot_6	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010442	Plot_6	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010503	Plot_6	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010638	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010610	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010435	Plot_6	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010443	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010637	Plot_6	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010543	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010467	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010510	Plot_6	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010497	Plot_6	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC04041423	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010670	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010771	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010694	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013655	Plot_2	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010745	Plot_CM30c30	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010732	Plot_CM30c30	Pitfall-Trap	Hemiptera	order	COI only	Arthropoda	Insecta	Hemiptera
+NZAC03010699	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010679	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010776	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010743	Plot_CM30c30	Pitfall-Trap	Onychophora	phylum	COI only	Onychophora	(Onychophora)	(Onychophora)
+NZAC03010691	Plot_CM30c30	Pitfall-Trap	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010756	Plot_CM30c30	Pitfall-Trap	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010713	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010751	Plot_CM30c30	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010761	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010750	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010744	Plot_CM30c30	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010703	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010698	Plot_CM30c30	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010770	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010738	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010709	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010687	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010683	Plot_CM30c30	Pitfall-Trap	Phasmatodea	order	COI only	Arthropoda	Insecta	Phasmatodea
+NZAC03010739	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010733	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010757	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010672	Plot_CM30c30	Pitfall-Trap	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03010775	Plot_CM30c30	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010705	Plot_CM30c30	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010676	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010717	Plot_CM30c30	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03010665	Plot_CM30c30	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010767	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03010766	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010735	Plot_CM30c30	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03010667	Plot_CM30c30	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010692	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010740	Plot_CM30c30	Pitfall-Trap	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03010719	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010708	Plot_CM30c30	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03013597	Plot_2	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009227	Plot_CM30c30	Pitfall-Trap	Araneae	order	COI only	Arthropoda	Arachnida	Araneae
+NZAC03009180	Plot_CM30c30	Pitfall-Trap	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03010668	Plot_CM30c30	Pitfall-Trap	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03009011	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03006217	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03006355	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03006283	Plot_CM30c30	Pitfall-Trap	Scarabaeidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009188	Plot_CM30c30	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03006352	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03006329	Plot_CM30c30	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03006285	Plot_CM30c30	Pitfall-Trap	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009059	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009239	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009042	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009060	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03009257	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009241	Plot_LB1	Pitfall-Trap	Curculionidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009259	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009234	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009251	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013658	Plot_2	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009226	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009235	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009252	Plot_LB1	Pitfall-Trap	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009262	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009056	Plot_LB1	Pitfall-Trap	Pselaphinae	subfamily	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009236	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009300	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009309	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009066	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009229	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009237	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009254	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009302	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009238	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03009247	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009331	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009104	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009101	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009039	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009100	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009111	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009162	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009351	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009175	Plot_LB1	Pitfall-Trap	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03009096	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009109	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03010722	Plot_1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013602	Plot_2	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009110	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009164	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009174	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009129	Plot_LB1	Pitfall-Trap	Endopterygota	infraclass	COI only	Arthropoda	Insecta	(Endopterygota)
+NZAC03009099	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009352	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009106	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009116	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009125	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009103	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009168	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009265	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009258	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009124	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009093	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009179	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009266	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03013573	Plot_2	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009263	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009136	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03009112	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009172	Plot_LB1	Pitfall-Trap	Amphipoda	order	COI only	Arthropoda	Malacostraca	Amphipoda
+NZAC03009077	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009017	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009142	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03009153	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03009018	Plot_LB1	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009140	Plot_LB1	Pitfall-Trap	Scarabaeidae	family	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03009014	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009024	Plot_LB1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03009138	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03009145	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03009008	Plot_LB1	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03011604	Plot_6	Pitfall-Trap	Coleoptera	order	COI only	Arthropoda	Insecta	Coleoptera
+NZAC03011442	Plot_6	Pitfall-Trap	Pancrustacea	no rank	COI only	Arthropoda	(Arthropoda)	(Arthropoda)
+NZAC03011522	Plot_6	Pitfall-Trap	Lepidoptera	order	COI only	Arthropoda	Insecta	Lepidoptera
+NZAC03010891	Plot_1	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013534	Plot_2	Pitfall-Trap	Isopoda	order	COI only	Arthropoda	Malacostraca	Isopoda
+NZAC03013478	Plot_2	Pitfall-Trap	Diptera	order	COI only	Arthropoda	Insecta	Diptera
+NZAC03013647	Plot_2	Pitfall-Trap	Hymenoptera	order	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03013480	Plot_2	Pitfall-Trap	Thysanoptera	order	COI only	Arthropoda	Insecta	Thysanoptera
+NZAC03013560	Plot_2	Pitfall-Trap	Formicidae	family	COI only	Arthropoda	Insecta	Hymenoptera
+NZAC03006214	Plot_CM30c30	Pitfall-Trap	Scarabaeidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03006288	Plot_CM30c30	Pitfall-Trap	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03006289	Plot_CM30c30	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03006294	Plot_CM30c30	Pitfall-Trap	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03006297	Plot_CM30c30	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03006325	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03006334	Plot_CM30c30	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03006337	Plot_CM30c30	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03006347	Plot_CM30c30	Pitfall-Trap	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03006356	Plot_CM30c30	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03006362	Plot_CM30c30	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03006367	Plot_CM30c30	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03006368	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03006380	Plot_CM30c30	Pitfall-Trap	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009013	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009016	Plot_LB1	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03009021	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009022	Plot_LB1	Pitfall-Trap	Carabidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009023	Plot_LB1	Pitfall-Trap	Carabidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009026	Plot_LB1	Pitfall-Trap	Carabidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009029	Plot_7	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03009030	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009031	Plot_7	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03009035	Plot_LB1	Pitfall-Trap	Carabidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009053	Plot_LB1	Pitfall-Trap	Carabidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009058	Plot_LB1	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03009065	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009067	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009069	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009070	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009073	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009074	Plot_CM30c30	Pitfall-Trap	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009097	Plot_LB1	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009102	Plot_LB1	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009105	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009107	Plot_LB1	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03009115	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009117	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009120	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009127	Plot_LB1	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009128	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009131	Plot_LB1	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009132	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009133	Plot_LB1	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03009139	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009141	Plot_LB1	Pitfall-Trap	Carabidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009143	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009148	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009151	Plot_LB1	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03009157	Plot_LB1	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009159	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009160	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009171	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009177	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009178	Plot_LB1	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009193	Plot_CM30c30	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009228	Plot_LB1	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009231	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009240	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009242	Plot_LB1	Pitfall-Trap	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03009243	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009244	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009248	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009250	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009253	Plot_LB1	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03009255	Plot_LB1	Pitfall-Trap	Carabidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009261	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009264	Plot_LB1	Pitfall-Trap	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009267	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009268	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009276	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S and COI	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009287	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S and COI	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009292	Plot_LB1	Pitfall-Trap	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009293	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009294	Plot_LB1	Pitfall-Trap	Scarabaeidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009295	Plot_LB1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009297	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009298	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009304	Plot_LB1	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03009306	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009308	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009310	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009319	Plot_7	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03009326	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009328	Plot_7	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009332	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S and COI	Mollusca	Gastropoda	(Gastropoda)
+NZAC03009335	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03009336	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03009339	Plot_CM30c30	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03009341	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03009342	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009343	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03009345	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03009346	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03009347	Plot_CM30c30	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03009348	Plot_LB1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03009349	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03009350	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03009353	Plot_LB1	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009355	Plot_LB1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03009356	Plot_LB1	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03010146	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010150	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010163	Plot_7	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010168	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S and COI	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010170	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010173	Plot_7	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010174	Plot_7	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03010176	Plot_7	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03010178	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010181	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010211	Plot_7	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03010267	Plot_1	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03010270	Plot_1	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03010273	Plot_1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010282	Plot_1	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03010284	Plot_1	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03010286	Plot_1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010295	Plot_1	Leaf-Litter	Eupulmonata	no rank	28S and COI	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010296	Plot_1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010301	Plot_1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010328	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010334	Plot_7	Leaf-Litter	Eupulmonata	no rank	28S and COI	Mollusca	Gastropoda	(Gastropoda)
+NZAC03010343	Plot_7	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03010351	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010362	Plot_7	Leaf-Litter	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03010367	Plot_7	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03010378	Plot_7	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010386	Plot_7	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010398	Plot_1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010399	Plot_1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010406	Plot_1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010421	Plot_4	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010424	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010425	Plot_4	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010426	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010427	Plot_6	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010432	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010433	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010434	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010437	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010438	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010441	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010445	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010450	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010451	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010452	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010453	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010454	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010456	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010463	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010464	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010465	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010466	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010470	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010474	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010476	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010478	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010479	Plot_4	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010480	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010481	Plot_4	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010483	Plot_4	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010484	Plot_6	Pitfall-Trap	Scarabaeidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010488	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010492	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010493	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010494	Plot_6	Pitfall-Trap	Thysanoptera	order	28S and COI	Arthropoda	Insecta	Thysanoptera
+NZAC03010502	Plot_6	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010504	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010507	Plot_4	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010508	Plot_6	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010509	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010512	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010514	Plot_6	Pitfall-Trap	Scarabaeidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010516	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010518	Plot_6	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010519	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010520	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010521	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010523	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010525	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010526	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010530	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010533	Plot_4	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010536	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010538	Plot_4	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010539	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010545	Plot_6	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010546	Plot_6	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03010548	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010551	Plot_6	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010553	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010559	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010562	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010564	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010565	Plot_4	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010567	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010572	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010573	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010574	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010576	Plot_6	Pitfall-Trap	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03010577	Plot_6	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03010579	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010580	Plot_6	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03010585	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010591	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010592	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010596	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010604	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010606	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010607	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010608	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010613	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010614	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010615	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010616	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010620	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010621	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010624	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010625	Plot_6	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010632	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010633	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010634	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010635	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010642	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010643	Plot_4	Pitfall-Trap	Scaphidiinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010646	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010647	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010648	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010649	Plot_4	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010653	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010657	Plot_6	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010660	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010669	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010671	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03010674	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010675	Plot_CM30c30	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03010678	Plot_CM30c30	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03010680	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010682	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010684	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010690	Plot_CM30c30	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010693	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010695	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010696	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010697	Plot_CM30c30	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010700	Plot_CM30c30	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03010704	Plot_CM30c30	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010706	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010712	Plot_CM30c30	Pitfall-Trap	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010714	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010716	Plot_CM30c30	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03010718	Plot_CM30c30	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010720	Plot_CM30c30	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03010724	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010725	Plot_1	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03010734	Plot_CM30c30	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010736	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010737	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010741	Plot_CM30c30	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03010742	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010746	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010748	Plot_CM30c30	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03010762	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010765	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010768	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010774	Plot_CM30c30	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010781	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010786	Plot_1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010787	Plot_1	Pitfall-Trap	Archaeognatha	order	28S and COI	Arthropoda	Insecta	Archaeognatha
+NZAC03010792	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010794	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010797	Plot_1	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03010798	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010805	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010808	Plot_6	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010809	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010810	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010815	Plot_6	Pitfall-Trap	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03010817	Plot_2	Pitfall-Trap	Tettigoniidae	family	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010821	Plot_2	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010823	Plot_2	Pitfall-Trap	Endomychidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010834	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010835	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010836	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010840	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010842	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010843	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010852	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010856	Plot_1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010857	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010858	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010869	Plot_1	Pitfall-Trap	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03010881	Plot_1	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03010883	Plot_1	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010898	Plot_1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010900	Plot_1	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010903	Plot_1	Pitfall-Trap	Archaeognatha	order	28S and COI	Arthropoda	Insecta	Archaeognatha
+NZAC03010908	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010911	Plot_1	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010912	Plot_1	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03010916	Plot_1	Pitfall-Trap	Opiliones	order	28S and COI	Arthropoda	Arachnida	Opiliones
+NZAC03010930	Plot_6	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03010964	Plot_6	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03010968	Plot_6	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03010980	Plot_CM30c30	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010988	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03010996	Plot_CM30c30	Leaf-Litter	Cerambycidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011059	Plot_6	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011072	Plot_2	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03011082	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011089	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011104	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011106	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011111	Plot_CM30c30	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011120	Plot_2	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011143	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011148	Plot_CM30c30	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011149	Plot_CM30c30	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011154	Plot_CM30c30	Leaf-Litter	Lithobiomorpha	order	28S and COI	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03011156	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011160	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011162	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011167	Plot_CM30c30	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011170	Plot_2	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011171	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011173	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011174	Plot_2	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011176	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011178	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011180	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011182	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011184	Plot_2	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011188	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011196	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011204	Plot_6	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011220	Plot_6	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011245	Plot_CM30c30	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011249	Plot_CM30c30	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03011253	Plot_2	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03011256	Plot_2	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011258	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011259	Plot_2	Leaf-Litter	Pselaphinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011261	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011262	Plot_2	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011265	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011267	Plot_2	Leaf-Litter	Pselaphinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011269	Plot_2	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011270	Plot_2	Leaf-Litter	Lithobiomorpha	order	28S and COI	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03011272	Plot_2	Leaf-Litter	Lithobiomorpha	order	28S and COI	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03011276	Plot_2	Leaf-Litter	Thysanoptera	order	28S and COI	Arthropoda	Insecta	Thysanoptera
+NZAC03011280	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011297	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011301	Plot_6	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011302	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011308	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011309	Plot_2	Leaf-Litter	Pselaphinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011312	Plot_2	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03011313	Plot_2	Leaf-Litter	Pselaphinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011315	Plot_2	Leaf-Litter	Pselaphinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011316	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011317	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011319	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011320	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011321	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011322	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011323	Plot_2	Leaf-Litter	Aphidoidea	superfamily	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011324	Plot_2	Leaf-Litter	Pselaphinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011325	Plot_2	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011326	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011328	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011329	Plot_2	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011332	Plot_2	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03011336	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011337	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011340	Plot_2	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011341	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011342	Plot_2	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011352	Plot_2	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011355	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011359	Plot_2	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011362	Plot_2	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011363	Plot_6	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011385	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011389	Plot_8	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011392	Plot_8	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011403	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011405	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011407	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011411	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011413	Plot_2	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011426	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011432	Plot_5	Pitfall-Trap	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011433	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011438	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011441	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011446	Plot_4	Pitfall-Trap	Archaeognatha	order	28S and COI	Arthropoda	Insecta	Archaeognatha
+NZAC03011449	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011452	Plot_3	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03011454	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011455	Plot_3	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03011457	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011458	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011465	Plot_6	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03011466	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011467	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011468	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011469	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011470	Plot_6	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011475	Plot_4	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03011479	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011481	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011482	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011484	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011486	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011487	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011490	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011491	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011492	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011494	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011495	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011497	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011498	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011503	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011506	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011508	Plot_3	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03011509	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011515	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011516	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011519	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011521	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011523	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011524	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011525	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011526	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011529	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011531	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011533	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011535	Plot_3	Pitfall-Trap	Diptera	order	28S and COI	Arthropoda	Insecta	Diptera
+NZAC03011536	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011537	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011542	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011547	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011548	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011549	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011551	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011552	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011558	Plot_6	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03011560	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011561	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011562	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011563	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011566	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011568	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011569	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011575	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011576	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011577	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011578	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011579	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011580	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011582	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011583	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011584	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011589	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011591	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011592	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011596	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011597	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011598	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011600	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011601	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011603	Plot_5	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011605	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011607	Plot_6	Pitfall-Trap	Thysanoptera	order	28S and COI	Arthropoda	Insecta	Thysanoptera
+NZAC03011608	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011609	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011611	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011616	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011618	Plot_3	Pitfall-Trap	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011620	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011622	Plot_3	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011623	Plot_4	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011624	Plot_4	Pitfall-Trap	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011625	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011627	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011631	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011632	Plot_6	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03011633	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011635	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011638	Plot_5	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03011640	Plot_3	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03011641	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011644	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011645	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011646	Plot_3	Pitfall-Trap	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011647	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011649	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011656	Plot_5	Pitfall-Trap	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011657	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011659	Plot_5	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03011660	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011661	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011662	Plot_6	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011665	Plot_5	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03011666	Plot_5	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03011669	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011670	Plot_4	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011672	Plot_6	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03011685	Plot_6	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011728	Plot_6	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011760	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011768	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011769	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011825	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011831	Plot_5	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03011832	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011845	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011848	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011854	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011855	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011858	Plot_5	Pitfall-Trap	Scaphidiinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011860	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011862	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011868	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011869	Plot_6	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011879	Plot_6	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011885	Plot_6	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011890	Plot_6	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011903	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011922	Plot_5	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011930	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011933	Plot_5	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03011941	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03011944	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011945	Plot_5	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03011952	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03011976	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011978	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011981	Plot_6	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03011983	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03011987	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012016	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012021	Plot_5	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012033	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012034	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012050	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012089	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012091	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012093	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012099	Plot_5	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012100	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012106	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012115	Plot_6	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012117	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012118	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012122	Plot_5	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012127	Plot_6	Leaf-Litter	Elateridae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012129	Plot_5	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012131	Plot_6	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012151	Plot_6	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012154	Plot_6	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012158	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012164	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012171	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012194	Plot_4	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012207	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012208	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012215	Plot_4	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012220	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012223	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012224	Plot_4	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012225	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012228	Plot_4	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03012238	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012240	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012241	Plot_4	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012244	Plot_4	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012246	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012253	Plot_4	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03012254	Plot_4	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012260	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012270	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012271	Plot_8	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012274	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012277	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012280	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012286	Plot_4	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012288	Plot_4	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012299	Plot_4	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012301	Plot_4	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012310	Plot_4	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012312	Plot_4	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012318	Plot_4	Leaf-Litter	Diplura	class	28S and COI	Arthropoda	Diplura	(Diplura)
+NZAC03012319	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012321	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012330	Plot_8	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012336	Plot_8	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012338	Plot_4	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012341	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012344	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012349	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012353	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012358	Plot_4	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012359	Plot_4	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012364	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012365	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012366	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012370	Plot_4	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012374	Plot_4	Leaf-Litter	Siphonaptera	order	28S and COI	Arthropoda	Insecta	Siphonaptera
+NZAC03012380	Plot_4	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03012401	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012403	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012405	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012408	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012409	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012415	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012416	Plot_4	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012419	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012422	Plot_4	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012426	Plot_4	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012437	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012438	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012443	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012454	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012462	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012467	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012479	Plot_8	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012487	Plot_5	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012504	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012509	Plot_5	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012513	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012519	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012532	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012536	Plot_5	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012555	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012564	Plot_5	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012589	Plot_5	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012600	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012605	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012614	Plot_5	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012619	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012641	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012643	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012652	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012660	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012667	Plot_5	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012668	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012669	Plot_5	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012672	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012674	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012677	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012684	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012687	Plot_3	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012690	Plot_3	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012698	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012699	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012703	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012714	Plot_3	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012716	Plot_3	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012717	Plot_3	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012719	Plot_3	Leaf-Litter	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03012723	Plot_3	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012725	Plot_3	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012727	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012729	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012733	Plot_3	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012734	Plot_3	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012736	Plot_3	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012740	Plot_3	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012742	Plot_3	Leaf-Litter	Lithobiomorpha	order	28S and COI	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03012744	Plot_3	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012745	Plot_3	Leaf-Litter	Symphyla	order	28S and COI	Arthropoda	(Myriapoda)	Symphyla
+NZAC03012746	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012747	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012748	Plot_3	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012751	Plot_3	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012753	Plot_3	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012754	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012757	Plot_3	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03012759	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012760	Plot_3	Leaf-Litter	Archaeognatha	order	28S and COI	Arthropoda	Insecta	Archaeognatha
+NZAC03012763	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012765	Plot_3	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012768	Plot_3	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012771	Plot_3	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012772	Plot_3	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012773	Plot_3	Leaf-Litter	Eumalacostraca	subclass	28S and COI	Arthropoda	Malacostraca	(Malacostraca)
+NZAC03012774	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012776	Plot_3	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012778	Plot_3	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012779	Plot_3	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012781	Plot_3	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012783	Plot_3	Leaf-Litter	Symphyla	order	28S and COI	Arthropoda	(Myriapoda)	Symphyla
+NZAC03012792	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012793	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012797	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012798	Plot_3	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012802	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012809	Plot_3	Leaf-Litter	Lithobiomorpha	order	28S and COI	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03012813	Plot_3	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012817	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012823	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012845	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012846	Plot_5	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03012851	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012852	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012858	Plot_3	Leaf-Litter	Lithobiomorpha	order	28S and COI	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03012864	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012870	Plot_3	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012871	Plot_3	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012874	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012895	Plot_5	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012897	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012900	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012901	Plot_5	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03012902	Plot_5	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012911	Plot_3	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012915	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012919	Plot_3	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012927	Plot_3	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03012928	Plot_3	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03012933	Plot_CM30c30	Leaf-Litter	Lithobiomorpha	order	28S and COI	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03012939	Plot_CM30c30	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03012947	Plot_CM30c30	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012950	Plot_CM30c30	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03012962	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012973	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012990	Plot_2	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03012993	Plot_2	Leaf-Litter	Lithobiomorpha	order	28S and COI	Arthropoda	Chilopoda	Lithobiomorpha
+NZAC03013001	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03013004	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013012	Plot_2	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013014	Plot_2	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03013015	Plot_2	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013016	Plot_2	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013025	Plot_6	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03013033	Plot_6	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013085	Plot_CM30c30	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03013094	Plot_6	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03013103	Plot_6	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013115	Plot_6	Leaf-Litter	Endopterygota	infraclass	28S and COI	Arthropoda	Insecta	(Endopterygota)
+NZAC03013119	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03013146	Plot_6	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013153	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013169	Plot_6	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03013186	Plot_8	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013209	Plot_8	Leaf-Litter	Eupulmonata	no rank	28S and COI	Mollusca	Gastropoda	(Gastropoda)
+NZAC03013214	Plot_8	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013230	Plot_8	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03013233	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013235	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013244	Plot_8	Leaf-Litter	Cercopidae	family	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03013254	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013267	Plot_8	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03013273	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013275	Plot_8	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013282	Plot_8	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013283	Plot_8	Leaf-Litter	Isopoda	order	28S and COI	Arthropoda	Malacostraca	Isopoda
+NZAC03013297	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013301	Plot_8	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03013309	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03013319	Plot_6	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03013328	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013330	Plot_8	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03013331	Plot_8	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013332	Plot_8	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03013355	Plot_8	Leaf-Litter	Cercopidae	family	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03013358	Plot_8	Leaf-Litter	Pselaphinae	subfamily	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013361	Plot_8	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03013373	Plot_8	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03013376	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013392	Plot_6	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013403	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013418	Plot_8	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013437	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013438	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013445	Plot_5	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013448	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013449	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013450	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013451	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013453	Plot_3	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013456	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013457	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013458	Plot_2	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03013459	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013461	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013470	Plot_5	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013475	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013476	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013479	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013481	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013482	Plot_3	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013483	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013485	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013486	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013488	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013489	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013491	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013494	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013495	Plot_5	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013496	Plot_3	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03013499	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013505	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013507	Plot_3	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013510	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013511	Plot_3	Pitfall-Trap	Tettigoniidae	family	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03013514	Plot_2	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013519	Plot_3	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013522	Plot_5	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03013524	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013526	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013531	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013532	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013533	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013536	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013539	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013540	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013541	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013546	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013552	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013556	Plot_5	Pitfall-Trap	Orthoptera	order	28S and COI	Arthropoda	Insecta	Orthoptera
+NZAC03013558	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013559	Plot_5	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013565	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013566	Plot_3	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013568	Plot_3	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013570	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013571	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013576	Plot_3	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013579	Plot_5	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013582	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013584	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013585	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013586	Plot_5	Pitfall-Trap	Archaeognatha	order	28S and COI	Arthropoda	Insecta	Archaeognatha
+NZAC03013588	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013589	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013591	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013594	Plot_3	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013596	Plot_3	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013598	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013600	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013603	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013606	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013607	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013608	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013613	Plot_5	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013614	Plot_5	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013615	Plot_5	Pitfall-Trap	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013616	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013617	Plot_2	Pitfall-Trap	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013619	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013620	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013622	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013623	Plot_3	Pitfall-Trap	Thysanoptera	order	28S and COI	Arthropoda	Insecta	Thysanoptera
+NZAC03013627	Plot_3	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013628	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013629	Plot_2	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013637	Plot_5	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013642	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013644	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013645	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013646	Plot_2	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013648	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013649	Plot_3	Pitfall-Trap	Thysanoptera	order	28S and COI	Arthropoda	Insecta	Thysanoptera
+NZAC03013651	Plot_3	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013653	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013654	Plot_2	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013656	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013657	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013664	Plot_5	Pitfall-Trap	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013667	Plot_5	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013672	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013675	Plot_2	Pitfall-Trap	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013677	Plot_3	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013681	Plot_2	Pitfall-Trap	Salpingidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013684	Plot_2	Pitfall-Trap	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03013703	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013715	Plot_LB1	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013717	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013734	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013735	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013742	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013761	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013765	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013804	Plot_LB1	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013834	Plot_LB1	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013844	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013845	Plot_LB1	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
+NZAC03013852	Plot_LB1	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03013864	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013878	Plot_LB1	Leaf-Litter	Polydesmida	order	28S and COI	Arthropoda	Diplopoda	Polydesmida
+NZAC03013892	Plot_LB1	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013898	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013922	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013931	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013936	Plot_LB1	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013954	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013984	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03013986	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014024	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014043	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014047	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014050	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014073	Plot_LB1	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03014079	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014093	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014144	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014146	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014194	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014197	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014203	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014218	Plot_CM30c30	Leaf-Litter	Geophilomorpha	order	28S and COI	Arthropoda	Chilopoda	Geophilomorpha
+NZAC03014255	Plot_CM30c30	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014256	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014260	Plot_CM30c30	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03014262	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014263	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014266	Plot_CM30c30	Leaf-Litter	Hemiptera	order	28S and COI	Arthropoda	Insecta	Hemiptera
+NZAC03014267	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014277	Plot_CM30c30	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014278	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014280	Plot_CM30c30	Leaf-Litter	Pseudoscorpiones	order	28S and COI	Arthropoda	Arachnida	Pseudoscorpiones
+NZAC03014281	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014289	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014293	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014294	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014304	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014308	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014311	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014314	Plot_LB1	Leaf-Litter	Hymenoptera	order	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03014315	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014319	Plot_LB1	Leaf-Litter	Ptiliidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014322	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014330	Plot_CM30c30	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014337	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014345	Plot_CM30c30	Leaf-Litter	Araneae	order	28S and COI	Arthropoda	Arachnida	Araneae
+NZAC03014351	Plot_CM30c30	Leaf-Litter	Formicidae	family	28S and COI	Arthropoda	Insecta	Hymenoptera
+NZAC03014354	Plot_CM30c30	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014425	Plot_LB1	Leaf-Litter	Coleoptera	order	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014426	Plot_LB1	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014431	Plot_LB1	Leaf-Litter	Staphylinidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014432	Plot_LB1	Leaf-Litter	Curculionidae	family	28S and COI	Arthropoda	Insecta	Coleoptera
+NZAC03014434	Plot_LB1	Leaf-Litter	Lepidoptera	order	28S and COI	Arthropoda	Insecta	Lepidoptera
