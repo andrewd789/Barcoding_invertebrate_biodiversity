@@ -12,7 +12,7 @@ from Bio import SeqIO
 # http://gamon.webfactional.com/regexnumericrangegenerator/
 reg = "KP4(2074[5-9]|207[5-9][0-9]|20[89][0-9]{2}|21[0-9]{3}|22[0-3][0-9]{2}|224[0-5][0-9]|2246[0-4])$"
 
-os.chdir('G:/Documents/PhD/Sanger_OTUs_analysis/Sanger_BOLD_454_matching/BOLD_NZ_seqs_2018/')
+os.chdir('G:/Documents/GitHub/Barcoding_invertebrate_biodiversity/BOLD_NZ_seqs_2018/')
 files = glob.glob("*.fas")
 for f in files:
     keep = list()
