@@ -32,7 +32,7 @@ The invertebrate barcode sequences are available from Genbank under accessions K
     - Hemiptera; (1,540 sequences)
     - Orthoptera; (17 sequences)
   * Any dashes were stripped out of the downloaded sequences using regex (e.g. using Notepad++).
-  * Many of the barcode sequences have been imported into BOLD from Genbank since their submission to Genbank. Therefore, any of these Hauturu invertebrate barcode sequences were removed from the downloaded BOLD sequences (remove_Hauturu_barcodes_from_BOLD.py). 
+  * Many of the barcode sequences have been imported into BOLD from Genbank since their submission to Genbank. Therefore, to repeat the analysis, any of these Hauturu invertebrate barcode sequences should be removed from the downloaded BOLD sequences (remove_Hauturu_barcodes_from_BOLD.py). 
   + Each set of BOLD database-derived sequences was clustered into OTUs (usearch_pipeline.py)
   + The invertebrate COI barcode OTUs were matched against the the BOLD database-derived OTUs, for each taxonomic group, using the usearch_global algorithm in USEARCH (or VSEARCH) (usearch_match_seqs.py).
   + Biodiversity estimates for different taxonomic groups were calculated based on overlap of OTUs between the two datasets, as above. 
